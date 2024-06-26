@@ -3,7 +3,6 @@
 
 IFS=',' 
 
-
 topic_list=$1
 
 

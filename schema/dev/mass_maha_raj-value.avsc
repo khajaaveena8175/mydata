@@ -1,0 +1,18 @@
+{
+  "fields": [
+    {
+      "doc": "The double type is a double precision (64-bit) IEEE 754 floating-point number.",
+      "type": "double",
+      "name": "remuneration"
+    },
+    {
+      "doc": "The string is a unicode character sequence.",
+      "type": "string",
+      "name": "actor_name"
+    }
+  ],
+  "doc": "Sample schema to help you get started.",
+  "namespace": "com.mycorp.mynamespace",
+  "name": "sampleRecord",
+  "type": "record"
+}

@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "doc": "The int type is a 32-bit signed integer." 
+      "type": "int" 
+      "name": "my_field1"
+    } 
+    {
+      "doc": "The double type is a double precision (64-bit) IEEE 754 floating-point number." 
+      "type": "double" 
+      "name": "my_field2"
+    } 
+    {
+      "doc": "The string is a unicode character sequence." 
+      "type": "string" 
+      "name": "my_field3"
+    }
+  ] 
+  "doc": "Sample schema to help you get started." 
+  "namespace": "com.mycorp.mynamespace" 
+  "name": "sampleRecord" 
+  "type": "record"
+}
